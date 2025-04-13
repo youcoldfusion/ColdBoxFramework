@@ -1,7 +1,7 @@
 ﻿<!--- 
 <cfsetting  enablecfoutputonly="yes" showdebugoutput="true">
 
-outside cfoutput<br/>
+outside cfoutput<br/> 
 <cfoutput>
 	
 	inside cfoutput
