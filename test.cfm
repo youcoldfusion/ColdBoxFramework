@@ -15,8 +15,3 @@ outside cfoutput<br/>
 
 --->
 Missing Template Handler
-
-
-
-
-
